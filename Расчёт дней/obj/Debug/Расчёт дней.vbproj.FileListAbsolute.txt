@@ -1,0 +1,9 @@
+D:\DT\Расчёт дней\Расчёт дней\bin\Debug\Расчёт дней.exe
+D:\DT\Расчёт дней\Расчёт дней\bin\Debug\Расчёт дней.pdb
+D:\DT\Расчёт дней\Расчёт дней\bin\Debug\Расчёт дней.xml
+D:\DT\Расчёт дней\Расчёт дней\obj\Debug\Расчёт_дней.Form1.resources
+D:\DT\Расчёт дней\Расчёт дней\obj\Debug\Расчёт_дней.Resources.resources
+D:\DT\Расчёт дней\Расчёт дней\obj\Debug\Расчёт дней.vbproj.GenerateResource.Cache
+D:\DT\Расчёт дней\Расчёт дней\obj\Debug\Расчёт дней.exe
+D:\DT\Расчёт дней\Расчёт дней\obj\Debug\Расчёт дней.xml
+D:\DT\Расчёт дней\Расчёт дней\obj\Debug\Расчёт дней.pdb
